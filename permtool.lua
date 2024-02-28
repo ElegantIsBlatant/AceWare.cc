@@ -11,8 +11,8 @@ wait(0.2)
 local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
 local Notify = AkaliNotif.Notify;
 Notify({
-Description = "The #1 upcoming lock for DaHood";
-Title = "AceWare.cc";
+Description = "Join the server here: https://discord.gg/uhBx2ypj6q";
+Title = "ObiHub";
 Duration = 10;
 })
 
